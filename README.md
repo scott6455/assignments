@@ -5,7 +5,7 @@ Assignments may modify or add new requirements, but the following should be unde
 
 * [Create a new issue in this repository for each assignment](https://github.com/TIY-LR-FEE-2015-June/assignments/issues/new)
   + Name your issue with these three parts: the assignment number, the assignment name, and your full name, e.g. `1.1 - Personal Website - Ryan Tablada`
-  + If todos (i.e. check boxes) are provided for you in the assignment file, include them in a `Description` section of your Issue
+  + If todos (i.e. check boxes) are provided for you in the assignment file, include them in a `Requirements` section of your Issue
   + If todos are _not_ provided for you (as in later assignments), create your own; you will be expected to break down many assignments on your own
   + Estimate the complexity, difficulty, and risk of each major piece of the assignment with point values from 1-8 where 1 is a minor difficulty and 8 would take you a full afternoon.
 * Create a new repository for the assignment
