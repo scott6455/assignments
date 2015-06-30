@@ -40,11 +40,31 @@ After completing this assignment, you should be able to effectively:
 
 ### Requirements
 
-- a working, publicly visible website with a public URL (i.e. on Github pages, with DivShot, on Heroku, etc)
+* `index.html` Landing Page
+* `styles/style.css` css file linked from `index.html`
+* Page should have
+  + top image across the whole page
+  + badge on the left covering part of the top image
+  + multiple posts including different types of content using filler content
+      * heading text
+      * by line with author and date
+      * image
+      * lorem text after the image
+* Your HTML should pass in the HTML validator at [https://html5.validator.nu/](https://html5.validator.nu/)
+
+* Hard requirements
+    - Recreate the "Never miss a post section"
+        + Should have an "x" in top right
+        + Should stand off of the page visually
+        + Should have image to the left of some stacked text
+        + Should have colored button
+
+* Extra hard requirements
+    - Try building the left side bar where it says "the iron yard houston"
 
 ## Normal Mode
 
-Recreate the following layout in HTML and CSS:
+Recreate the following layout in HTML and CSS except for the left column
 
 ![](./blog.png)
 
