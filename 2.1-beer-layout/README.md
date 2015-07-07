@@ -44,7 +44,7 @@ Normal Mode description
 
 ### Phone and Desktop Layout
 
-![](phone-desk.png)
+![](phone-desktop.png)
 
 ### Tablet Layout
 
