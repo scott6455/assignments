@@ -27,9 +27,10 @@ After completing this assignment, you be able to effectively turn a flat design 
 * A repo containing at least:
     * The default file structure
 * Multiple SCSS partials files
-* A centralized set of variables to allow changing the site theme (grid sizes, color scheme, etc)
+* A centralized set of variables to allow changing the site theme (grid sizes, color scheme, fonts, etc)
 * Your site hosted on Github Pages
     - Link to your Github pages in the Issue for this assignment
+* At least one but no more than two Google Web Fonts
 
 ### Requirements
 
@@ -71,6 +72,12 @@ Implement the HTML and CSS needed for this design:
 ## Hard Mode
 
 Attempt to make the navbar "come in" from the right when a user clicks on the "Hamburger" icon.
+You should not need Javascript for this (it will make things easier when we do have it though...).
+
+### Inspiration
+
+* http://www.sitepoint.com/pure-css-off-screen-navigation-menu/
+
 
 ## Content Resources
 
@@ -79,3 +86,4 @@ Attempt to make the navbar "come in" from the right when a user clicks on the "H
    * Click on "Grid"
    * Click on Any Photo
    * Scroll down and click on "..." to get photo sensor info
+* http://google.com/fonts
