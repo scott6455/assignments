@@ -27,6 +27,7 @@ After completing this assignment, you be able to effectively turn a flat design 
 * A repo containing at least:
     * The default file structure
 * Multiple SCSS partials files
+* A centralized set of variables to allow changing the site theme (grid sizes, color scheme, etc)
 * Your site hosted on Github Pages
     - Link to your Github pages in the Issue for this assignment
 
