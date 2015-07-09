@@ -47,7 +47,7 @@ After completing this assignment, you be able to effectively turn a flat design 
         + f-stop
         + ISO
         + Shutter Speed
-    - Company Name About Image ("Landscape")
+    - Company Name Above Image ("Landscape")
     - Responsive Style on Desktop
         + Photo Camera Info to the side of image
         + Photo Title and Date Below Photo
