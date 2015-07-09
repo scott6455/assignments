@@ -47,7 +47,7 @@ After completing this assignment, you be able to effectively turn a flat design 
         + f-stop
         + ISO
         + Shutter Speed
-    - Company Name About Image ("Landscape")
+    - Company Name Above Image ("Landscape")
     - Responsive Style on Desktop
         + Photo Camera Info to the side of image
         + Photo Title and Date Below Photo
@@ -71,3 +71,11 @@ Implement the HTML and CSS needed for this design:
 ## Hard Mode
 
 Attempt to make the navbar "come in" from the right when a user clicks on the "Hamburger" icon.
+
+## Content Resources
+
+* http://hipsum.co/
+* http://vsco.co
+   * Click on "Grid"
+   * Click on Any Photo
+   * Scroll down and click on "..." to get photo sensor info

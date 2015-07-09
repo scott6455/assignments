@@ -27,10 +27,10 @@ After completing this assignment, you should be able to effectively:
 ### Deliverables
 
 * A repo containing at least:
-    - `index.html`
-    - stylesheets (`scss/`, `css/`, and `dist/` folders)
-    - `images` folder
-        - with any images you used with your design
+    - `public/index.html`
+    - stylesheets all in a `assets` directory
+    - `public/images` folder
+        - with any images you used with your design (you may use relevant placeholder images if needed)
 
 ### Requirements
 
