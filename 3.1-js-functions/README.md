@@ -1,4 +1,4 @@
-# js-intro-numbers-loops-fizzbuzz
+# js-functions
 
 ## Objectives
 
