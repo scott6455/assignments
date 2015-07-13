@@ -33,6 +33,11 @@ Nodemon will rerun your code whenever things are changed
 ### Requirements
 
 * All assertions in `fizzbuzz.js` pass
+  * sum
+  * sumOfArray
+  * GCD
+  * LCM
+  * fizzbuzz
 
 ## Normal Mode
 
