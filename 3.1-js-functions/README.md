@@ -12,6 +12,7 @@ After completing this assignment, you should be able to:
 ```sh
 # cd into GH project folder
 # then mkdir <projectName>
+# then cd <projectName>
 # then git init
 # then 
 
