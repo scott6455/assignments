@@ -12,14 +12,12 @@ After completing this assignment, you should be able to:
 
 ## Setup
 
-```sh
-# cd into week directory
-# then hub clone tiy-lr-fee-2015-June/3.4-etsy
-# then hub create to create the repo on Github, too
-# run npm install
-# run bower install
-# DO WORK
-```
+* `cd` into week directory
+* `hub clone tiy-lr-fee-2015-June/3.4-etsy`
+* `hub create` to create the repo on Github, too
+* `npm install` to install build tools
+* `bower install` to pull in default browser dependencies
+* DO WORK
 
 ## Deliverables
 
