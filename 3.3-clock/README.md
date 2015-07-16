@@ -53,6 +53,7 @@ Then create your `Brocfile.js`, `public/index.html`, and some folder other than 
 * Hard Mode
     * Show the percentage of a second under the current time
     * Make the time show up in hex every other second instead of human readable: [Check this out](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt) `radix` should = 16
+    * Update your background to a color using `hlsa`
 
 ## Normal Mode
 
