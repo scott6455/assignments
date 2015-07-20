@@ -49,6 +49,14 @@ Instead of using `@media` queries, you should have a styled button that allows y
 
 ![](list.png)
 
+## Checkpoints
+
+* Create Handlebars Template in your `index.html` file to represent a single beer item
+* Grab the template from HTML in your Javascript using `document.querySelector`
+* Compile a handlebars template
+* Use `array.forEach` to loop through data
+    * Use created handlebars template to render HTML for a single item
+* Add all rendered HTML into the DOM so that the user can see it.
 
 ## Fetching Beer Data
 
