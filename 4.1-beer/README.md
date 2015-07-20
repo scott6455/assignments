@@ -43,11 +43,11 @@ Instead of using `@media` queries, you should have a styled button that allows y
 
 ### Grid State
 
-![](phone-desktop.png)
+![](grid.png)
 
 ### List State
 
-![](tablet.png)
+![](list.png)
 
 
 ## Fetching Beer Data
