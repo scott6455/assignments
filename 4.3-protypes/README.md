@@ -1,4 +1,4 @@
-# Constructors
+# Prototypes and Constructors
 
 ## Description
 Copy the included `constructors.js` to a new project.
