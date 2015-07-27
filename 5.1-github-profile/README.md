@@ -2,6 +2,7 @@
 
 ## Description
 
+In this assignment you will be looking at using today's techniques of `$.ajax` to make HTTP requests from Javascript.
 
 ## Objectives
 
@@ -10,10 +11,6 @@
 After completing this assignment, you should:
 
 * Be able to breakdown a complex sequence into a series of steps, use jQuery AJAX, handle callbacks and asynchronous code, and write to the DOM with JS
-
-### Performance Objectives
-
-## Details
 
 ### Deliverables
 
