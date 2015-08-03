@@ -1,0 +1,15 @@
+{
+    "name": "beer-hbs",
+    "version": "0.0.1",
+    "title": "hbs",
+    "description": "hbs",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "JavaScript",
+        "Array",
+        "forEach",
+        "Handlebars"
+    ]
+}
