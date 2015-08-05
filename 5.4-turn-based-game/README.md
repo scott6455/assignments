@@ -68,8 +68,7 @@ For a more simple approach ala Pokemon, look at this ![Pokemon Battle](http://st
   increase attack.
 - Make a party of players, rather than just one (a la Final Fantasy). The game
   play would cycle between Player 1 -> Enemy -> Player 2 -> Enemy, etc.
-- Implement "ailments". E.g. being poisoned makes you weaker, being put to sleep
-  makes you skip your turn.
+- Implement "ailments". E.g. being poisoned: makes you weaker, being put to sleep: makes you skip your turn.
 
 ## Notes
 
