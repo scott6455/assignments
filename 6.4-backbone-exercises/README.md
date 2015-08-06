@@ -33,7 +33,7 @@ assignments only when absolutely necessary (making sure you understand when you 
 Each exercise should have its own `develop` branch
 
 * a) Create a form for a person. It should have a first name, last name,
-address, and phone number.  It should save the person to tiny-lasagna-server.
+address, and phone number.  It should save the person to tiny-lr server.
 
 * b) Create a "blog reading app", where you have a list of blog posts on the
 side and when you click on a post title, it opens that post in another view.
