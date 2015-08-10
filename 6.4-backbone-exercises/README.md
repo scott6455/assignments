@@ -39,7 +39,8 @@ address, and phone number.  It should save the person to tiny-lr server.
 
 * b) Create a "blog reading app", where you have a list of blog posts on the
 side and when you click on a post title, it opens that post in another view.
-Hint: which blog post is selected is "application state".
+Hint: which blog post is selected is "application state". You can use this collection here: http://tiny-lr.herokuapp.com/collections/blog.
+This should not have any create or destory functionality! ONLY READ!
 
 * c) Create a bookmarking app where you can save URLs. It should have a form
 where you enter the URL, a title, and a "tag". There should be a list of all
