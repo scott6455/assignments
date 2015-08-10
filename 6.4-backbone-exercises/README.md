@@ -4,6 +4,8 @@
 
 Achieve Backbone mastery by completing five Backbone apps.
 
+Getting started: use the `backbone-project` command that we've created then reset your git remote by running `git remote rm origin` and then `hub create` to create a new Github repo.
+
 ## Objectives
 
 ### Learning Objectives
