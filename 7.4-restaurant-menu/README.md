@@ -77,7 +77,7 @@ For normal mode you can immediately add an item to the order instead of having a
 
 
 #### Order data
-- [ ] Save the order data to Parse when the order is submitted
+- [ ] Save the order data to Tiny LR when the order is submitted
 
 ## Hard Mode
 - When a user submits an order, make a POST request to `/collections/<initials>-order` with an array of ids for all the items a user has ordered
