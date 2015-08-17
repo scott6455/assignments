@@ -4,6 +4,8 @@
 
 Achieve Backbone mastery by completing five Backbone apps.
 
+Getting started: use the `backbone-project` command that we've created then reset your git remote by running `git remote rm origin` and then `hub create` to create a new Github repo.
+
 ## Objectives
 
 ### Learning Objectives
@@ -33,11 +35,12 @@ assignments only when absolutely necessary (making sure you understand when you 
 Each exercise should have its own `develop` branch
 
 * a) Create a form for a person. It should have a first name, last name,
-address, and phone number.  It should save the person to tiny-lasagna-server.
+address, and phone number.  It should save the person to tiny-lr server.
 
 * b) Create a "blog reading app", where you have a list of blog posts on the
 side and when you click on a post title, it opens that post in another view.
-Hint: which blog post is selected is "application state".
+Hint: which blog post is selected is "application state". You can use this collection here: http://tiny-lr.herokuapp.com/collections/blog.
+This should not have any create or destory functionality! ONLY READ!
 
 * c) Create a bookmarking app where you can save URLs. It should have a form
 where you enter the URL, a title, and a "tag". There should be a list of all

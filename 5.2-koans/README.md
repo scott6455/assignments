@@ -25,6 +25,7 @@ After completing this assignment, you be able to effectively respond to failing 
 ### Deliverables
 
 * A clone of the JavaScript koans repo
+* A link to your pull request of changes from the original repo
 
 ### Requirements
 

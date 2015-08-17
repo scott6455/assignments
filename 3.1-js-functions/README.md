@@ -1,4 +1,4 @@
-# js-intro-numbers-loops-fizzbuzz
+# js-functions
 
 ## Objectives
 
@@ -12,6 +12,7 @@ After completing this assignment, you should be able to:
 ```sh
 # cd into GH project folder
 # then mkdir <projectName>
+# then cd <projectName>
 # then git init
 # then 
 
@@ -32,6 +33,11 @@ Nodemon will rerun your code whenever things are changed
 ### Requirements
 
 * All assertions in `fizzbuzz.js` pass
+  * sum
+  * sumOfArray
+  * GCD
+  * LCM
+  * fizzbuzz
 
 ## Normal Mode
 

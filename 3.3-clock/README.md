@@ -47,12 +47,13 @@ Then create your `Brocfile.js`, `public/index.html`, and some folder other than 
     * `console.log` the percentage of a minute that the current seconds represents (e.g., if 30 seconds have elapsed, `console.log` 0.5)
     * Using the percent above, dynamically modify the length of the timer bar.
     * `console.log` a hexidecimal color that is based on the current second every second.
-    * Dynamically update the background color of the page using the color.
-    * Display the generated color's hex value on hover.
+    * Dynamically update the background color of the page using javascript.
+      * This can be just a toggle for now
 
 * Hard Mode
     * Show the percentage of a second under the current time
     * Make the time show up in hex every other second instead of human readable: [Check this out](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt) `radix` should = 16
+    * Update your background to a color using `hlsa`
 
 ## Normal Mode
 

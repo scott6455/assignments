@@ -57,6 +57,7 @@ For a more simple approach ala Pokemon, look at this ![Pokemon Battle](http://st
 - The player's health should be visible.
 - The enemies health may be visible, at your discretion.
 - After either character is killed: show a game end screen
+- Attacks should have a chance of failure
 
 ## Hard Mode
 - The player should be able to click "Start Over" on the game end screen

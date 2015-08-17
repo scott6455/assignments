@@ -27,11 +27,11 @@ After completing this assignment, you should be able to:
 ## Requirements
 
 * Recreate the beer layout using SCSS, Bourbon, and Neat
-* Use handlebars with a template to beer items from the provided data
-* Use `array.forEach` to iterate over your array rather than `{{#each}}{{/each}}` loops
+* Use handlebars with a template to add beer items from the provided data to the DOM
+* Use `array.forEach` to iterate over the array of beer items rather than Handlebars `{{#each}}{{/each}}` loops
 * Clicking on a button on the page uses `classList` to switch between list mode and grid mode
-* Do not use jQuery - we haven't covered it so this SHOULDN'T be a problem
 * Variables in `app.js` should not pollute the global scope (think self invoking anonymous functions)
+* Do not use jQuery - we haven't covered it so this SHOULDN'T be a problem
 
 ## Normal Mode
 
