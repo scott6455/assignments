@@ -39,7 +39,7 @@ with a total price. When the user saves the order, it should `console.log` the
 
 They also want a way to change their menu and view orders that have been created.
 
-Create an Ember CLI app, using the tiny-lr server for data persistance, to create a dynamically updating menu page and back of house app.
+Create an Ember CLI app, using the tiny-lr server or Firebase for data persistance, to create a dynamically updating menu page and back of house app.
 See Additional Resources below for an example online menu.
 For normal mode you can immediately add an item to the order instead of having a comments or asking how many should be in the order.
 Also for normal mode, you should be able to go to an "admin" section to CRUD menu items and view orders.
@@ -72,7 +72,7 @@ Also for normal mode, you should be able to go to an "admin" section to CRUD men
 - [ ] Show each item in your order in your component template
 - [ ] In your order model, define a `subtotal` computed property that shows the price of all of the added items
 - [ ] Show the `subtotal` for your order in your Order Component template
-- [ ] Save the order data to tiny-lr when the order is submitted with related menu items
+- [ ] Save the order data to tiny-lr or Firebase when the order is submitted with related menu items
 
 #### Back of House
 - [ ] Create a route group for logging in to the back of house system
