@@ -1,0 +1,14 @@
+{
+    "name": "turn-based-game",
+    "version": "0.0.1",
+    "title": "Turn Based Game",
+    "description": "Create a Final Fantasy style game",
+    "difficultyModes": [
+        "Normal",
+        "Hard",
+        "Nightmare"
+    ],
+    "keywords": [
+        "JavaScript"
+    ]
+}
